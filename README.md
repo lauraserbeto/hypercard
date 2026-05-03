@@ -2,7 +2,8 @@
 
 **HyperCard** é uma plataforma bancária fictícia de ultra-luxo, projetada para oferecer uma experiência digital sem precedentes para executivos, empresários e investidores de alta renda. O projeto combina uma estética minimalista e "Dark Mode" com interações fluidas e uma arquitetura multi-página robusta.
 
-![HyperCard Preview](https://github.com/user-attachments/assets/65480-placeholder-style-hero) 
+<img width="1536" height="1024" alt="hypercard" src="https://github.com/user-attachments/assets/63e84820-ffaa-472e-a19d-91134e2c1533" />
+
 ## ✨ Destaques do Projeto
 
 *   **Design Premium & Imersivo**: Uso de *glassmorphism*, gradientes sutis e efeitos de *backdrop-blur* para uma sensação de exclusividade.
